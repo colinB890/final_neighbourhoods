@@ -4,3 +4,5 @@ Colin Burgess
 My findings in the Battle of the Neighbourhoods, for Edmonton AB are that there is a wide array of crimes in the Edmonton area. The conclusions reached are not strong, given there are, by my findings, no targeted areas. There does seem to be uniform activity throughout the city for minor crimes. 
 
 There are also a wide array of venues, and a uniformity of essential services such as gas stations, as well as minor conveniences, such as coffee shops. All things being equal, on might be just as good buying in one are over another except in terms of perhaps one's work location. A cost analysis file would be valuable to import to compare with the current files, however for ease of viewing and course purposes, this may be going overboard.
+
+The target audience for this type of project would be those who are investing in real estate, or builders who may be considering an area for future development. Of course, the more data included in such a model as this, the more one may be able to make less arbitrary of a decision. 
