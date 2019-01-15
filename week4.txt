@@ -1,0 +1,42 @@
+BATTLE OF THE NEIGHBOURHOODS - COLIN BURGESS
+AS REQUIRED IN PARTIAL FULFILLMENT OF THE IBM PROFESSIONAL DATA SCIENCE CERTIFICATE
+
+https://github.com/colinB890/final_neighbourhoods - Project link.
+
+
+THE PROBLEM
+
+Despite the economic downturn in Alberta, there does see to be a demand for housing in Edmonton. There are numerous new developments, as well as those who consider buying into developed areas. 
+
+Consider the SW portion of Edmonton, which is still in itsinfancy, while other parts of Edmonton are as old as the city itself. 
+
+How does one decide to purchase property in one area as opposed to another? One might look at the crime statistics, while others might look at development already in place, such as a coffee shop, or a church. All things being equal, making some decisions are very difficult. 
+
+In this small program I will leverage the FourSquare app to retrieve data and show the location of venues, as well as call upon neighbourhood locations, as well as the crime stats in some portions. Perhaps taking as much information into consideration would help one formulate a decision where to purchase property. 
+
+It is the end goal of this program to provide a user with a visualization of a particular developing neighbourhood, its amenities and its crime stats. 
+
+My instrumental uses for this will be FourSquare, Matplotlib, numpys and the Foilum library for mapping. 
+
+By the end the user might explore a small sample size of the SW portion of Edmonton which is currently growing. 
+
+That which is the analysans will be $$$$$ and the analysandum will be $$$$$
+
+
+In this project I mostly used some of the concepts introduced in this program, using two different, using the city of Edmonton AB as the model.
+
+One file pertains to Edmonton City Police Crime stats, and another pertains to the neighbourhoods. The second file contains the Longitudinal and Latitudinal values needed for foursquare. 
+
+Very generic information is provided, however one might use this information when decdiding where to purchase a house, or for a builder considering where to build on real estate. Determining factors in buying a house would include, but not be limited to:
+
+1. Crime. (Safety first)
+
+2. Development of neighbourhood. I know when I moved into my current neighbourhood at first, one thing which kept the property value low was the total lack of ammenities, such as shopping and gas stations. However, once these ammenities were added, property value soared.
+
+I hope a model like this could potentially be used for a realtor, or anyone considering where to look around in, in this city of Edmonton.
+
+### EVENTUAL GOALS FOR FUTURE PROFESSIONAL DEVELOPMENT: There are ideas which I did not include in this project, for reasons of my own inadequacy, and hope to develop an eventual program which would provide a heat map of my area, allowing a user to drag a cursor over the area showing them the statistics which they could explore further. For now my limited skills will reflect in this project, unfortunately. 
+
+My source files are from the city of Edmonton Police website and the city of Edmonton data site, which now has open access to much data.
+
+For ease of viewing I have truncated the tables to the first 10 of the files. 
